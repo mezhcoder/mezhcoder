@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/minsu._.0102/)](https://www.instagram.com/minsu._.0102/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zhcoder/)](https://www.instagram.com/zhcoder/)
 
 I really like programming
 
