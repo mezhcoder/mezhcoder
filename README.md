@@ -3,7 +3,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/zhcoder/)](https://www.instagram.com/zhcoder/)
 
 I really like programming
-Hobby UI design ⭐️
 
 **Languages and tools**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
